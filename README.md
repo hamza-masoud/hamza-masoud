@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**hamza-masoud/hamza-masoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello
+i am hamza masoud a web developer\
+email: hamza0masoud@gmail.com\
+phone: +9725947116621\
+telegram: https://t.me/hamzaMassoud \
+skype: https://join.skype.com/invite/Ij2PJcq9OtnS
+## 🛠 Skills
+**Javascript, HTML, CSS, php laravel, git, github, Jquery, bootstrap, vue js**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects and experience from it
+some of my projects add it leter
+## How I can help you?
+- I bulit projects from zero to hero\
+     by find the problem that makes work too hard, needing more time to finish it\
+     and my love makes everything automated, I can give you a project will help you 
