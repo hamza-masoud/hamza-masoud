@@ -1,5 +1,4 @@
-
-# Hello
+# Hello everyone👋
 i am hamza masoud a web developer\
 email: hamza0masoud@gmail.com\
 phone: +9725947116621\
@@ -12,7 +11,10 @@ skype: https://join.skype.com/invite/Ij2PJcq9OtnS
 ## projects and experience from it
 some of my projects add it leter
 ## How can I help you?
-- I bulit projects from zero to hero\
+- **if you are a developer and need my experince**\
+    **don't forget to contact me I will help you anytime**
+
+- I built projects from zero to hero\
     by find the problem that makes work too hard, needing more time to finish it and with my love makes everything automated, I can give you a perfect project will help you in your work by getting feedback from the end user, understanding the problem, using open source projects and some new tools
 
 -  if you search about person to build what you need with every point you say it\
