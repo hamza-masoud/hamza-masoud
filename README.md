@@ -1,6 +1,7 @@
-# Hello everyone👋
+# Hello everyone👋, full stack web developer
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hamza-masoud&style=flat-square"></h2>
-i am hamza masoud a full stack web developer\
+## contact me
+I am hamza masoud\
 email: hamza0masoud@gmail.com\
 phone: +9725947116621\
 telegram: https://t.me/hamzaMassoud \
