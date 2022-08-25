@@ -7,6 +7,7 @@ telegram: https://t.me/hamzaMassoud \
 skype: https://join.skype.com/invite/Ij2PJcq9OtnS
 ## 🛠 Skills
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code> <a href="https://laravel.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
