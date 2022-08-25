@@ -1,6 +1,6 @@
 # Hello everyone👋
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hamza-masoud&style=flat-square"></h2>
-i am hamza masoud a web developer\
+i am hamza masoud a full stack web developer\
 email: hamza0masoud@gmail.com\
 phone: +9725947116621\
 telegram: https://t.me/hamzaMassoud \
