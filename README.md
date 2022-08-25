@@ -20,7 +20,30 @@ skype: https://join.skype.com/invite/Ij2PJcq9OtnS
 
 
 ## projects and experience from it
-some of my projects add it leter
+### shopware info system
+some infos about the projects
+- api integration with shopware
+- datatable for showing order infos and edit
+- javascript with Jquery for inline update
+- email sending
+- multi roles
+- accounting
+
+### aloo app
+an ecommarece system using laravel with multi auth, dashboard and api
+- multi auth (customer, vendor, driver, admin)
+- auth using passport package
+- dashboard for admin, driver, vendor
+- api for customer, vendor, driver
+- api entrgrate with payment method
+
+### wann-wohin.de
+front-end with laravel for showing the city and country details like claim, travel price, hotel price, and the best month for travel
+- careful about SEO and optimize
+- create a perfact design for user
+- google analytic
+
+
 ## How can I help you?
 - **if you are a developer and need my experince**\
     **don't forget to contact me I will help you anytime**
