@@ -1,11 +1,9 @@
 # Hello everyone👋, full stack web developer
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hamza-masoud&style=flat-square"></h2>
 ## contact me
-I am hamza masoud\
-email: hamza0masoud@gmail.com\
-phone: +9725947116621\
-telegram: https://t.me/hamzaMassoud \
-skype: https://join.skype.com/invite/Ij2PJcq9OtnS
+I am Hamza Masoud\
+https://linktr.ee/hamza_masoud \
+
 ## 🛠 Skills
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 <code> <a href="https://laravel.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </code>
