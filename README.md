@@ -2,7 +2,7 @@
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hamza-masoud&style=flat-square"></h2>
 ## contact me
 I am Hamza Masoud\
-https://linktr.ee/hamza_masoud \
+https://linktr.ee/hamza_masoud
 
 ## 🛠 Skills
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
