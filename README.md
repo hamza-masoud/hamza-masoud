@@ -17,45 +17,45 @@ https://linktr.ee/hamza_masoud
 <code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
 <code><a href="https://docker.com"><img alt="docker" title="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Vertical.png" height="42" style="background-color:#2496ed;"></a></code>
 
-#### laravel packages
+#### Laravel packages
 - sanctum
 - passport
-- vue js
-- laravel datatables
+- Vue js
+- Laravel data tables
 - sweet alert
-- laravel commands
+- Laravel commands
 
 ## projects and experience from it
 ### shopware info system
-some infos about the projects
+some info about the projects
 - api integration with shopware
-- datatable for showing order infos and edit
+- data table for showing order info and edit
 - javascript with Jquery for inline update
 - email sending
 - multi roles
 - accounting
 
 ### aloo app
-an ecommarece system using laravel with multi auth, dashboard and api
+an e-commerce system using Laravel with multi-vendor, dashboard, and API
 - multi auth (customer, vendor, driver, admin)
 - auth using passport package
 - dashboard for admin, driver, vendor
-- api for customer, vendor, driver
-- api entrgrate with payment method
+- API for customer, vendor, driver
+- API integrates with a payment method
 
 ### wann-wohin.de
-front-end with laravel for showing the city and country details like claim, travel price, hotel price, and the best month for travel
+front-end with Laravel for showing the city and country details like claim, travel price, hotel price, and the best month for travel
 - careful about SEO and optimize
-- create a perfact design for user
+- create a perfect design for the user
 - google analytic
 
 
 ## How can I help you?
-- **if you are a developer and need my experince**\
-    **don't forget to contact me I will help you anytime**
+- **If you are a developer and need my experience**\
+    **Don't forget to contact me I will help you anytime**
 
 - I built projects from zero to hero\
-    by find the problem that makes work too hard, needing more time to finish it and with my love makes everything automated, I can give you a perfect project will help you in your work by getting feedback from the end user, understanding the problem, using open source projects and some new tools
+    by finding the problem that makes work too hard, needing more time to finish it, and with my love for making everything automated, I can give you a perfect project that will help you in your work by getting feedback from the end user, understanding the problem, using open source projects and some new tools
 
--  if you search about person to build what you need with every point you say it\
-    I built projects with every piont that need from me to do it, but with my experince i will suggest you some things that may be will be better for you
+-  if you search for a person to build what you need with every point you say it\
+    I built projects with every point that need from me to do, but with my experience, I will suggest you some things that may be will be better for you
